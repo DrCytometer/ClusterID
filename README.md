@@ -15,7 +15,7 @@ More details to be published at https://www.colibri-cytometry.com/blog
 
 
 Example data from OMIP-102 plotted with tSNE and scattermore using EmbedSOM to generate clusters:
-![annotated tSNE]([https://github.com/DrCytometer/ClusterID/blob/main/tsne_with_cluster_labels.jpg?raw=true])
+![annotated tSNE](https://github.com/DrCytometer/ClusterID/blob/main/tsne_with_cluster_labels.jpg?raw=true)
 
 Ridgeline plots showing expression of markers by cluster:
-![annotated tSNE]([https://github.com/DrCytometer/ClusterID/blob/main/cluster_histograms.jpg?raw=true])
+![annotated tSNE](https://github.com/DrCytometer/ClusterID/blob/main/cluster_histograms.jpg?raw=true)
