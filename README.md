@@ -11,7 +11,7 @@ It's not amazing.
 The basic approach is adapted from ScType:
 https://github.com/IanevskiAleksandr/sc-type
 
-More details to be published on [Colibri Cytometry](https://www.colibri-cytometry.com/post/what-s-that-cluster-part-ii)
+More details on [Colibri Cytometry](https://www.colibri-cytometry.com/post/what-s-that-cluster-part-ii)
 
 
 Example data from OMIP-102 plotted with tSNE and scattermore using EmbedSOM to generate clusters:
